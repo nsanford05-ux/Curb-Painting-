@@ -1,0 +1,73 @@
+html {
+	background-color: brown;
+
+nav ul{
+	list-style-type: none;
+}
+
+li a{
+	font: arial;
+	color: blue;
+	display: inline-block;
+	background-color: whitesmoke;
+	text-align: center;
+	display: block;
+	width: 300px;
+}
+
+
+.Cover{
+	color: floralwhite;
+	font-size: 30px;
+	text-align: center;
+}
+
+.Headers{
+	color: brown;
+	font-size: 50px;
+	text-align: center;
+	background-color: whitesmoke;
+}
+
+.Section{
+	color: whitesmoke;
+	background-color: silver;
+	text-align: center;
+}
+
+.Footer{
+	font-family: URW Chancery L, cursive;
+	text-align: center;
+	color: brown;
+	background-color: whitesmoke;
+	padding: 15px;
+
+}
+
+.Notes{
+	color: brown;
+}
+
+table{
+	color: brown;
+	background-color: white;
+	width: 1000px;
+	text-align: center;
+	margin: auto;
+}
+
+th{
+	border: 5px black;
+	background-color: whitesmoke;
+}
+td{
+	border: 5px black;
+	background-color: whitesmoke;
+}
+
+
+
+
+
+
+
